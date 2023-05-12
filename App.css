@@ -1,0 +1,27 @@
+.square {
+    height : 200px;
+    width:200px;
+    font-size:80px;
+    background: center;
+    background-color :orange;
+    text-decoration-color:white;
+    color: beige;
+}
+.board-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.status {
+    font-size: xx-large;
+    color: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+body{
+    background-color: beige;
+}
